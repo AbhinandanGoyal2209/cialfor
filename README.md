@@ -5,8 +5,9 @@ With the rapid growth of IoT devices, processing data closer to the source (Edge
 
 This simulated proof-of-concept demonstrates an **AI-driven orchestration system** that dynamically routing tasks to optimal processing nodes to balance latency, performance, energy consumption, and reliability.
 
-![AI Edge Dashboard Demonstrating Orchestrator Log]
+[AI Edge Dashboard Demonstrating Orchestrator Log look]
 <img width="1761" height="876" alt="image" src="https://github.com/user-attachments/assets/388c0cff-9681-4dc5-adf6-475df40e4137" />
+<img width="1754" height="859" alt="image" src="https://github.com/user-attachments/assets/4325929a-fb84-4638-9696-2287480a97d0" />
 
 
 ## Key Features
